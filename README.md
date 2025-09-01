@@ -7,4 +7,4 @@ This repository is a comprehensive collection of my hands-on projects and labs f
 
 ### Projects
 
-* [**EC2 Windows Server Instance Creation:**]() This project outlines the steps for creating and managing an **Amazon EC2** (Elastic Compute Cloud) instance on Amazon Web Services (**AWS**). The lab focuses on launching a Windows Server 2016 instance, configuring a key pair for secure access, and preparing for remote server management via RDP (Remote Desktop Protocol).
+* [**EC2 Windows Server Instance Creation:**](https://github.com/iagsalazar1-cs/Cloud-Solutions/tree/main/01-EC2-Windows-Server-Instance-Creation) This project outlines the steps for creating and managing an **Amazon EC2** (Elastic Compute Cloud) instance on Amazon Web Services (**AWS**). The lab focuses on launching a Windows Server 2016 instance, configuring a key pair for secure access, and preparing for remote server management via RDP (Remote Desktop Protocol).
