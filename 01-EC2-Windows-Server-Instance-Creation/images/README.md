@@ -1,1 +1,1 @@
-
+This images folder contains all the visual assets of the main `README.md` file for the "EC2 Windows Server Instance Creation" project. These images are used to illustrate each step of the `EC2 Windows Server Instance Creation` process, providing visual guidance for the user.
